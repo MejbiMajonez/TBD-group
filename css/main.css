@@ -1,0 +1,96 @@
+.minimo{
+float:left;
+margin-top:75px;
+margin-left:69px;
+width: 119px;
+height: 23px;
+}
+.menu{
+	float:right;
+	display:flex;
+	list-style-type: none;
+	justify-content: flex-end;
+}
+.menu li{
+	margin-left:120px;
+	margin-top:75px;
+	margin-bottom:75px;
+	width: 71px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+}
+#travel{
+	margin-right:115px;
+}
+/* zdjęcia start */
+.zdj1{
+	display:block;
+	margin-left: 70px;
+	    margin-right:69px;
+			width: 1061px;
+			height: 509px;
+}
+.zdj2{
+	margin-top:135px;
+	margin-left:81px;
+	margin-right:60px;
+	display:inline-block;
+	width: 420px;
+height: 279px;
+}
+.zdj3{
+	display:inline-block;
+}
+/* zdjęcia END */
+.clearfix{
+	clear:both;
+}
+#tit1{
+	margin-top:99px;
+	margin-left:81px;
+	width: 85px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+}
+#tit2{
+	margin-top:28px;
+	margin-left:81px;
+	width: 397px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+}
+#txt1{
+	margin-top:28px;
+	margin-left:81px;
+	width: 893px;
+height: 183px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
+#com1{
+	display:inline;
+	margin-top:52px;
+	margin-left:81px;
+	width: 123px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+}
