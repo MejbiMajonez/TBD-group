@@ -46,6 +46,15 @@ height: 279px;
 .zdj3{
 	display:inline-block;
 }
+.zdj4{
+	margin-top:135px;
+	margin-left:81px;
+	margin-right:60px;
+	display:inline-block;
+}
+.zdj5{
+	display:inline-block;
+}
 /* zdjęcia END */
 .clearfix{
 	clear:both;
@@ -70,6 +79,30 @@ color: #626262;
 font-family: "Playfair Display";
 font-size: 30px;
 font-weight: 400;
+}
+.tit3{
+	margin-top:32px;
+	position:absolute;
+	margin-left:81px;
+	width: 63px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;r
+}
+.tit4{
+	margin-top:32px;
+	position:absolute;
+	margin-left:566px;
+	width: 63px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;r
 }
 #txt1{
 	margin-top:28px;
